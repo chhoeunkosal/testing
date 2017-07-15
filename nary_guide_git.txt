@@ -11,6 +11,7 @@ git push origin master
 
 
 update daily code....
+git pull origin master
 git add .
 git commit -m "update...."
 git push origin master
